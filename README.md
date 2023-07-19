@@ -7,5 +7,7 @@ Natural images tend to recur similar patterns within the same scale and across d
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/2bebd90b-97be-4158-b394-aae6445c8103)
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/93558b50-3794-4782-bfae-b7c2cf4f2339)
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/f68a47c6-3849-43f3-9eee-70f18285a89f)
+![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/1c25fec7-9aa2-42cf-9a1a-32f2f5984992)
+![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/6c8605bb-9cc7-4feb-9bd5-bb037a1f58e0)
 
 
