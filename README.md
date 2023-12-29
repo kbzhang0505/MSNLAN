@@ -18,11 +18,20 @@ Natural images tend to recur similar patterns within the same scale and across d
 For training, you need to build the new directory!
 
 *|——DIV2K
+
   **|——bin
+  
   **|——DIV2K_train_HR
+  
     ***|——DIV2K_train_HR
+    
   **|——bin
+  
     ***|——DIV2K_train_LR_bicubic
+    
        ****|——x2
+       
        ****|——x3
+       
        ****|——x4
+       
