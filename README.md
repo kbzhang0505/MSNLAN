@@ -48,9 +48,10 @@ For training, you need to build the new directory! e.g.:
 # Weights
 The weights of student models are available at https://drive.google.com/drive/folders/19Yu9dSqN2yEsVeSifyzvjEDgZ-iOaSSY?usp=sharing
 
-The code is based on https://github.com/SHI-Labs/Pyramid-Attention-Networks and https://github.com/sanghyun-son/EDSR-PyTorch.
       
 # Thanks
+The code is based on https://github.com/SHI-Labs/Pyramid-Attention-Networks and https://github.com/sanghyun-son/EDSR-PyTorch.
+
     @article{mei2020pyramid,
       title={Pyramid Attention Networks for Image Restoration},
       author={Mei, Yiqun and Fan, Yuchen and Zhang, Yulun and Yu, Jiahui and Zhou, Yuqian and Liu, Ding and Fu, Yun and Huang, Thomas S and Shi, Honghui},
