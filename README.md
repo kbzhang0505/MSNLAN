@@ -14,4 +14,7 @@ Natural images tend to recur similar patterns within the same scale and across d
 # Model size comparison
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/6c8605bb-9cc7-4feb-9bd5-bb037a1f58e0)
 
+# Datasets Structure
+For training, you need to build the new directory!
+![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/0bd3e034-effb-45a9-9045-5f9e440a7e33)
 
