@@ -48,4 +48,8 @@ For training, you need to build the new directory! e.g.:
 # Weights
 The weights of student models are available at https://drive.google.com/drive/folders/19Yu9dSqN2yEsVeSifyzvjEDgZ-iOaSSY?usp=sharing
 
+The code is based on ReviewKD-master.
 
+# Thanks
+
+With any questions, feel welcome to contact us
