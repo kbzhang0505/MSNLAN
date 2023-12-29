@@ -22,16 +22,12 @@ For training, you need to build the new directory!
   **|——bin
   
   **|——DIV2K_train_HR
-  
-    ***|——DIV2K_train_HR
     
-  **|——bin
-  
-    ***|——DIV2K_train_LR_bicubic
+  **|——DIV2K_train_LR_bicubic
     
-       ****|——x2
+    ***|——x2
        
-       ****|——x3
+    ***|——x3
        
-       ****|——x4
+    ***|——x4
        
