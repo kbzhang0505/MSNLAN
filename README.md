@@ -45,6 +45,7 @@ For training, you need to build the new directory! e.g.:
   **|——LRbicx4
 
     ***|——x4
-
+# Weights
+The weights of student models are available at https://drive.google.com/drive/folders/19Yu9dSqN2yEsVeSifyzvjEDgZ-iOaSSY?usp=sharing
 
 
