@@ -48,8 +48,33 @@ For training, you need to build the new directory! e.g.:
 # Weights
 The weights of student models are available at https://drive.google.com/drive/folders/19Yu9dSqN2yEsVeSifyzvjEDgZ-iOaSSY?usp=sharing
 
-The code is based on ReviewKD-master.
-
+The code is based on https://github.com/SHI-Labs/Pyramid-Attention-Networks and https://github.com/sanghyun-son/EDSR-PyTorch.
+      
 # Thanks
+    @article{mei2020pyramid,
+      title={Pyramid Attention Networks for Image Restoration},
+      author={Mei, Yiqun and Fan, Yuchen and Zhang, Yulun and Yu, Jiahui and Zhou, Yuqian and Liu, Ding and Fu, Yun and Huang, Thomas S and Shi, Honghui},
+      journal={arXiv preprint arXiv:2004.13824},
+      year={2020}
+    }
+    @InProceedings{Lim_2017_CVPR_Workshops,
+      author = {Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu},
+      title = {Enhanced Deep Residual Networks for Single Image Super-Resolution},
+      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+      month = {July},
+      year = {2017}
+    }
+# Citation
+If you find the code helpful in your research or work, please cite the following paper:
 
+    @article{WU2023109362,
+       title = {Multi-scale non-local attention network for image super-resolution},
+       journal = {Signal Processing},
+       pages = {109362},
+       year = {2023},
+       issn = {0165-1684},
+       doi = {https://doi.org/10.1016/j.sigpro.2023.109362},
+       url = {https://www.sciencedirect.com/science/article/pii/S016516842300436X},
+       author = {Xue Wu and Kaibing Zhang and Yanting Hu and Xin He and Xinbo Gao}}
+    
 With any questions, feel welcome to contact us
