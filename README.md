@@ -16,5 +16,6 @@ Natural images tend to recur similar patterns within the same scale and across d
 
 # Datasets Structure
 For training, you need to build the new directory!
+
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/0bd3e034-effb-45a9-9045-5f9e440a7e33)
 
