@@ -25,9 +25,7 @@ For training, you need to build the new directory!
     
   **|——DIV2K_train_LR_bicubic
     
-    ***|——x2
-       
-    ***|——x3
-       
-    ***|——x4
+     ***|——x2
+     ***|——x3
+     ***|——x4
        
