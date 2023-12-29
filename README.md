@@ -27,7 +27,7 @@ For training, you need to build the new directory! In option.py, '--dir_data' ba
     
      ***|——x2
      ***|——x3
-     ***|——x4、
+     ***|——x4
 For training, you need to build the new directory! e.g.:
 
 *|——Set5
