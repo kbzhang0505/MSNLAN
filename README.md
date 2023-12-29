@@ -15,7 +15,7 @@ Natural images tend to recur similar patterns within the same scale and across d
 ![image](https://github.com/kbzhang0505/MSNLAN/assets/97494153/6c8605bb-9cc7-4feb-9bd5-bb037a1f58e0)
 
 # Datasets Structure
-For training, you need to build the new directory!
+For training, you need to build the new directory! In option.py, '--dir_data' based on the HR and LR images path. '--ext' is set as 'sep_reset', which first convert .png to .npy. If all the training images (.png) are converted to .npy files, then set '--ext sep' to skip converting files.
 
 *|——DIV2K
 
