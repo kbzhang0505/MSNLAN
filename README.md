@@ -78,4 +78,4 @@ If you find the code helpful in your research or work, please cite the following
        url = {https://www.sciencedirect.com/science/article/pii/S016516842300436X},
        author = {Xue Wu and Kaibing Zhang and Yanting Hu and Xin He and Xinbo Gao}}
     
-With any questions, feel welcome to contact us
+With any questions, feel welcome to contact us!
